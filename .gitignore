@@ -1,0 +1,8 @@
+# Compiled Java classes
+*.class
+
+# Dependencies
+lib/
+
+# Antigravity IDE settings
+.antigravity/
